@@ -1,4 +1,4 @@
-Darknet App Connector
+Darknet App Connector ver 2
 =======
 
 This project is an android application project, written as a part of Google Summer of Code 2013.
