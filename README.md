@@ -43,3 +43,5 @@ Mark the capture activity project as library project --  Right Click on CaptureA
 
 It can also built using ant scripts but a little more complicated.
 
+Please feel free tp contact us by info@darkblock.de
+
