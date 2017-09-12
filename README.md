@@ -42,7 +42,4 @@ Mark the capture activity project as library project --  Right Click on CaptureA
 8) Run 
 
 It can also built using ant scripts but a little more complicated.
-Contact me at ntesh93@gmail.com for any kind of queries
-
-Nitesh Bharadwaj
 
